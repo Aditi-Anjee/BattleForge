@@ -41,7 +41,7 @@ A responsive and user-friendly gaming website built with **HTML**, **CSS**, and 
 ---
 
 👤 Author
-Tejas Nagpure
+Aditi Anjee
 GitHub | LinkedIn
 
 ---
