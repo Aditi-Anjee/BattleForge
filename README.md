@@ -42,7 +42,7 @@ A responsive and user-friendly gaming website built with **HTML**, **CSS**, and 
 
 👤 Author
 Aditi Anjee
-GitHub | LinkedIn
+[GitHub](https://github.com/Aditi-Anjee) | [LinkedIn](www.linkedin.com/in/aditi-anjee)
 
 ---
 
